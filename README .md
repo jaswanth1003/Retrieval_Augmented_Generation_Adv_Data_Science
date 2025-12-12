@@ -2,7 +2,6 @@
 
 **A comprehensive educational tutorial on building production-ready RAG systems from scratch**
 
-[Watch the Video Tutorial](YOUR_VIDEO_LINK_HERE) | [Read the PDF Guide](./RAG_Tutorial.pdf) | [Open Notebook](./RAG_Complete_Tutorial.ipynb)
 
 ---
 
