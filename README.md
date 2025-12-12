@@ -156,31 +156,6 @@ rag-tutorial/
     └── production_rag.py
 ```
 
----
-
-## Video Tutorial
-
-**[Watch on YouTube](YOUR_VIDEO_LINK_HERE)** - Duration: 10 minutes
-
-### Video Sections
-
-**Segment 1: Explain (2-3 minutes)**
-- What is RAG and why does it matter
-- Real-world applications and use cases
-- RAG vs. fine-tuning vs. prompt engineering
-- When to use RAG
-
-**Segment 2: Show (5-6 minutes)**
-- Live walkthrough of the Jupyter notebook
-- Building a RAG system from scratch
-- Demonstration of retrieval and generation
-- Visualizations and performance metrics
-
-**Segment 3: Try (2-3 minutes)**
-- Guided exercise: Improve chunking strategy
-- Debugging common issues
-- Extension challenges for advanced learners
-- Resources for deeper learning
 
 ---
 
