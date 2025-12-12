@@ -343,7 +343,6 @@ copies or substantial portions of the Software.
 ## Contact
 
 - **GitHub Issues** - Report bugs or request features
-- **Email** - [your.email@example.com](mailto:your.email@example.com)
 - **Course Forum** - Post questions in the INFO 7390 discussion forum
 
 ---
